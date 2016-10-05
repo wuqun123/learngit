@@ -1,0 +1,2 @@
+this is a file to check the diff command.
+and add this file.
