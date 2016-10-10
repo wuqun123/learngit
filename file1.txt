@@ -1,1 +1,2 @@
 this is a file, named file1.txt
+this is a cast to test two people modify one file
