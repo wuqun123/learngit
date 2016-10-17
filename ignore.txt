@@ -1,1 +1,2 @@
 ignore object files.
+move .ignore outside also works.
